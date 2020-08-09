@@ -8,6 +8,7 @@ I will attach a DB to it, in wich i will manage the sale of the goods 🎁
 
 
 
+
 # The steps to implement this solution: 
 
  navigate to the folder "croitorie-ioana"
