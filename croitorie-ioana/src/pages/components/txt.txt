@@ -1,0 +1,22 @@
+<div class="col-md-10 ml-auto mr-auto">
+                <div class="row collections">
+                  <div class="col-md-4">
+                    <img src="IoanaImg2/rochii6.jpg" class="img-raised" />
+                    <img src="IoanaImg2/rochii2.jpg" alt="" class="img-raised" />
+                    <img src="IoanaImg2/rochii5.jpg" alt="" class="img-raised" />
+                    <img src="IoanaImg2/rochii1.jpg" alt="" class="img-raised" />
+                    
+                    
+                  </div>
+                  <div class="col-md-4">
+                    <img src="IoanaImg2/rochii12.jpg" alt="" class="img-raised" />
+                    <img src="IoanaImg2/rochii3.jpg" alt="" class="img-raised" />
+                    <img src="IoanaImg2/rochii4.jpg" alt="" class="img-raised" />
+                    <img src="IoanaImg2/rochii13.jpg" alt="" class="img-raised" />
+                    <img src="IoanaImg2/rochii14.jpg" alt="" class="img-raised" />
+                  </div>
+                  <div class="col-md-4">
+                    <img src="IoanaImg2/rochii15.jpg" alt="" class="img-raised" />
+                    
+                    <img src="IoanaImg2/rochii9.jpg" alt="" class="img-raised" />
+                    <img src="IoanaImg2/rochii8.jpg" alt="" class="img-raised" />
